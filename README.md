@@ -34,11 +34,9 @@ pip install --editable ./
 ```
 
 ## Training & Testing
-Before run training, replace 2019LA train metadata by the meatadata with MOS in `database/protocols_w_mos/ASVspoof_LA_cm_protocols` 
-
 To train and produce the score for LA set evaluation, run:
 ```bash
-python main.py --model conformer_tcm
+python main.py --model conformer_tcm --ga pcgrad
 ```
 
 ## Scoring
