@@ -63,15 +63,17 @@ The threshold can be obtained when calculating EER on one of the evaluation sets
 ## Citation
 If you find our repository valuable for your work, please consider giving a star to this repo and citing our paper:
 ```
-@misc{truong2025addressinggradientmisalignmentdataaugmented,
-      title={Addressing Gradient Misalignment in Data-Augmented Training for Robust Speech Deepfake Detection}, 
-      author={Duc-Tuan Truong and Tianchi Liu and Junjie Li and Ruijie Tao and Kong Aik Lee and Eng Siong Chng},
-      year={2025},
-      eprint={2509.20682},
-      archivePrefix={arXiv},
-      primaryClass={cs.SD},
-      url={https://arxiv.org/abs/2509.20682}, 
-}
+@INPROCEEDINGS{dpda_ga,
+  author={Truong, Duc-Tuan and Liu, Tianchi and Li, Junjie and Tao, Ruijie and Lee, Kong Aik and Chng, Eng Siong},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Addressing Gradient Misalignment in Data-Augmented Training for Robust Speech Deepfake Detection}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={16252-16256},
+  keywords={Deepfakes;Videos;Protocols;HTTP;Learning (artificial intelligence);Machine learning;Artificial intelligence;Neural networks;Boosting;Self-supervised learning;anti-spoofing;speech deepfake detection;data augmentation;gradient alignment},
+  doi={10.1109/ICASSP55912.2026.11464739}}
+
 ```
 
 ### Acknowledge
